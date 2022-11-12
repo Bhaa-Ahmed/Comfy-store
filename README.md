@@ -40,3 +40,7 @@ Main project contains pages, components, context, reducers and utils. There are 
 - We export custom hook (for example useProductsContext) in each context file in order to faster get our data from state
 - We store all our actions for context and reducers in separate file — actions.js. It helps us to faster write dispatch type and actions without making errors
 - We set up Stripe using stateless functions (create-payment-intent.js), netlify.toml, env, StripeCheckout.js component, and use this component inside CheckoutPage.js
+
+# Site
+
+-https://comfy-sloth-store-react-v17.netlify.app/
