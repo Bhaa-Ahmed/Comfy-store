@@ -2,6 +2,10 @@
 
 Responsive React e-commerce project that allows users to find and order furniture for the home.
 
+# Site
+
+- https://comfy-sloth-store-react-v17.netlify.app
+
 # Features
 
 - Filters by category, company, colors, price, and shipping. Users can select, change and clear filters and see results
